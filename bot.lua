@@ -321,8 +321,8 @@ function get_bot (i, adigram)
 🔹 <b>]] .. tostring(maxsg)..[[</b><code> سوپرگروه</code> 🔸
 
 <code>➖➖➖➖</code>
-🚀کانال ما : @TitanTeams
-😉سازنده : @mohammadrezajiji]]
+🚀کانال ما : @BlueAlireza
+😉سازنده : @BlueAdmin
 
                           return send(msg.chat_id_, 0, text)
                         elseif (text:match("send") or text:match("ارسال") and msg.reply_to_message_id_ ~= 0) then
